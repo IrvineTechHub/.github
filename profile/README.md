@@ -1,4 +1,3 @@
-## Hi there 👋 
 # Timesheet OCR Project
 ### Irvine Tech Hub
 ---
