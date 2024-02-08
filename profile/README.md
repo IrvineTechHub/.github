@@ -38,12 +38,7 @@ To check the front in React: after running, enter localhost:3000 in the URL bar.
 
 
 ## 📱 Key Features
-#### Photo Upload
-<img width="627" alt="image" src="https://github.com/IrvineTechHub/Timesheet/assets/115137708/88ee0c56-7422-4684-b9fd-2053e91e6828">
-
-#### Employee Working Time Statistics
-
-![image](https://github.com/IrvineTechHub/.github/assets/94919595/e307fbed-e71d-45fc-92f1-f08b35cb1da5)
+#### How To Use TIMESHEET OCR
 | File Upload | Show IMG | Show IMG To Text | 
 | :---: | :---: | :---: |
 | ![image](https://github.com/IrvineTechHub/.github/assets/94919595/14ebe3de-aa7a-4fc1-a524-f7a4c3de1b6c) | ![image](https://github.com/IrvineTechHub/.github/assets/94919595/c8673133-5813-45b0-a440-82c65c3870d8) | ![image](https://github.com/IrvineTechHub/.github/assets/94919595/debb7c9e-e577-48fe-ac0c-c1b568a9099f) |
