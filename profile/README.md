@@ -45,10 +45,7 @@ To check the front in React: after running, enter localhost:3000 in the URL bar.
 | **Modify INFOS** | **Set rate per hour** | **Payroll Overview** |
 | ![image](https://github.com/IrvineTechHub/.github/assets/94919595/01dc8236-554e-469a-b1d0-9bf0df321294) | ![image](https://github.com/IrvineTechHub/.github/assets/94919595/c2dfe49d-e4ad-466a-a746-c05fcb7990fb) | ![image](https://github.com/IrvineTechHub/.github/assets/94919595/1a697e80-aacb-4471-a723-8c3fab33c9f9) |
 
-#### Salary Statistics
-<img width="626" alt="image" src="https://github.com/IrvineTechHub/Timesheet/assets/115137708/04e9581e-e20c-44af-a14c-835ce185cac4">
-
-
+#### DEMO
 ![TimesheetOCR](https://github.com/IrvineTechHub/.github/assets/94919595/731965ff-a6bd-4094-9547-ed74eae68298)
 
 
